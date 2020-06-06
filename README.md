@@ -26,5 +26,5 @@ Installation size: Each panel is assumed to be 250 Watts with an efficiency of 1
 
 Space & obstacles: Only areas of the roof with enough space to install four adjacent solar panels are included. Only solar arrays on buildings are considered, not other spaces such as parking lots or fields.
 
-The proportion of these buildings that are likely to be supermarkets needs to be estimated in some way in order to get the proportion of the solar potential available in supermarkets. There may be other data sources that are sought and employed as the code is developed and tested.
+The solar potential data is provided in MWh/annum and divided by roof type (flat or orientation - North, East, South or West) and/or by installation size. The proportion of these buildings that are likely to be supermarkets needs to be estimated based on these latter two parameters in order to get the proportion of the solar potential available in supermarkets. There may be other data sources that are sought and employed as the code is developed and tested.
 
