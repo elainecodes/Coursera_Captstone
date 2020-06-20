@@ -1,4 +1,4 @@
-# Coursera_Captstone
+# Coursera_Capstone
 - Coursera IBM Data Science course capstone project 
 
 
